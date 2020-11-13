@@ -4,5 +4,6 @@
 
 ```bash
 $ docker-compose up -d
+$ terraform init
 $ terraform apply
 ```
